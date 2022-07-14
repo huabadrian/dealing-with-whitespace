@@ -1,0 +1,47 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 20px;
+}
+
+article {
+
+}
+
+article header {
+
+}
+
+article h1 {
+
+}
+
+article header p {
+
+}
+
+article p {
+
+}
+
+article ol {
+
+}
+
+article blockquote {
+
+}
+
+blockquote {
+
+}
+
+.quote {
+
+}
